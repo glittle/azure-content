@@ -101,7 +101,7 @@ Azure Multi-Factor Authentication | Azure Multi-Factor Authentication offers the
 The following table below provides a list of the features that are available in the various versions of Azure Multi-Factor Authentication.
 
 
-Feature  | Multi-Factor Authentication for Office 365 (included in Office 365 SKUs)|Multi-Factor Authentication for Azure Administrators (included with Azure subscription) | Azure Multi-Factor Authentication (included in Azure AD Premium and Enterprise Mobility Suite)
+Feature  | Multi-Factor Authentication for Office 365 | Multi-Factor Authentication for Azure Administrators | Azure Multi-Factor Authentication
 ------------- | :-------------: |:-------------: |:-------------: |
 Administrators can protect accounts with MFA| * | * (Available only for Azure Administrator accounts)|*
 Mobile app as a second factor|* | * | *
